@@ -4,14 +4,14 @@
     "href": "about.html",
     "title": "John Leonard",
     "section": "",
-    "text": "John Leonard is Professor of Computer Science at the Virginia Commonwealth University. Dr. Leonard is a data engineer and architect with interests in data pipelines and automation. His teaching covers the full stack of the data lifecycle, from databases and SQL to middleware and APIs to front end development for web and mobile platforms. Dr. Leonard write applications in FORTRAN, C, C++, MATLAB, Javascript, SQL, R and Python."
+    "text": "John Leonard is Professor of Computer Science at the Virginia Commonwealth University. Dr. Leonard is a data engineer and architect with interests in data pipelines and automation. His teaching covers the full stack of the data lifecycle, from databases and SQL to middleware and APIs to front end development for web and mobile platforms. Dr. Leonard develops solutions in FORTRAN, C, C++, MATLAB, Javascript, SQL, R and Python. Dr. Leonard co-authored the first fully online statistics textbook for transportation researchers and the National Cooperative Highway Research Program."
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
     "title": "John Leonard",
     "section": "Education",
-    "text": "Education\nUniversity of California, Irvine | Irvine, CA PhD in Engineering | 1991\nUniversity of California, Irvine | Irvine, CA MS in Engineering | 1986\nUniversity of California, Irvine | Irvine, CA BS in Engineering | 1983"
+    "text": "Education\nUniversity of California, Irvine | Irvine, CA | Ph.D. in Engineering | 1991\nUniversity of California, Irvine | Irvine, CA | M.S. in Engineering | 1986\nUniversity of California, Irvine | Irvine, CA | B.S. in Engineering | 1983"
   },
   {
     "objectID": "about.html#experience",
@@ -25,7 +25,7 @@
     "href": "index.html",
     "title": "Python sampler and workshop",
     "section": "",
-    "text": "this is a sample home page."
+    "text": "This is a demo web site created for this project.\nSee the workshop notes to see our initial ideas.\nSee the about page to learn more about the instructor."
   },
   {
     "objectID": "notes-2023-05-09.html",
@@ -46,7 +46,7 @@
     "href": "notes-2023-05-09.html#python-topics-use-cases",
     "title": "Genworth - Python intro",
     "section": "Python topics / Use cases",
-    "text": "Python topics / Use cases\nFor both sessions!\n\nPython and excel\n\nReading/write excel using python\nEmbedding python code within excel using xlwings\n\nPython as a reporting tool\nPython as an analytical tool\nPython as a “glue” to script things together.\nPython connected to SQL databases\nPython and beautiful graphics\nPython and data wranging"
+    "text": "Python topics / Use cases\nFor both sessions!\n\nPython and data wrangling\nPython as a reporting tool\nPython as an analytical tool\nPython as a “glue” to script things together.\nPython connected to SQL databases\nPython and beautiful graphics\nPython and excel\n\nReading/write excel using python\nEmbedding python code within excel using xlwings"
   },
   {
     "objectID": "notes-2023-05-09.html#other-topics",
