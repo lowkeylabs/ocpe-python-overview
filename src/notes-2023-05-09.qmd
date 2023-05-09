@@ -38,18 +38,17 @@ author: "John Leonard"
 
 For both sessions!
 
-- Python and excel
-    - [Reading/write excel using python](https://openpyxl.readthedocs.io/en/stable/)
-    - [Embedding python code within excel using xlwings](https://towardsdatascience.com/how-to-supercharge-excel-with-python-726b0f8e22c2)
+- [Python and data wrangling](https://www.oreilly.com/library/view/data-wrangling-with/9781491948804/)
 - [Python as a reporting tool](https://quarto.org/)
 - [Python as an analytical tool](https://lifelib.io/)
 - [Python as a "glue" to script things together.](https://learn.microsoft.com/en-us/windows/python/scripting)
 - [Python connected to SQL databases](https://www.geeksforgeeks.org/how-to-connect-python-with-sql-database/)
 - [Python and beautiful graphics](https://livecodestream.dev/post/how-to-build-beautiful-plots-with-python-and-seaborn/)
-- [Python and data wranging](https://www.oreilly.com/library/view/data-wrangling-with/9781491948804/)
+- Python and excel
+    - [Reading/write excel using python](https://openpyxl.readthedocs.io/en/stable/)
+    - [Embedding python code within excel using xlwings](https://towardsdatascience.com/how-to-supercharge-excel-with-python-726b0f8e22c2)
 
 ## Other topics
 
 - [Quarto](https://quarto.org/) - a reporting tool for merging python results and text into reports.
 - [Open Actuarial](https://open-actuarial.readthedocs.io/en/latest/introduction.html): a group for the promotion of open approached to solving actuarial problems using python and R.
-
