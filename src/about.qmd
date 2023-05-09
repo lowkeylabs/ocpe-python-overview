@@ -15,7 +15,7 @@ about:
       href: https://github.com/lowkeylabs
 ---
 
-John Leonard is Professor of Computer Science at the Virginia Commonwealth University. Dr. Leonard is a data engineer and architect with interests in data pipelines and automation. His teaching covers the full stack of the data lifecycle, from databases and SQL to middleware and APIs to front end development for web and mobile platforms. Dr. Leonard develops solutions in FORTRAN, C, C++, MATLAB, Javascript, SQL, R and Python. Dr. Leonard co-authored the [first fully online statistics textbook](https://onlinepubs.trb.org/onlinepubs/nchrp/cd-22/start.htm) for transportation researchers and the National Cooperative Highway Research Program.
+John Leonard is Professor of Computer Science at the Virginia Commonwealth University. Dr. Leonard is a data engineer and architect with interests in data pipelines and automation. His teaching covers the full stack of the data lifecycle, from databases and SQL to middleware and APIs to front end development for web and mobile platforms; he also teaches classes in computer game design and development. Dr. Leonard develops solutions using languages like FORTRAN, C, C++, MATLAB, Javascript, Perl, SQL, R and Python, and frameworks like React, React-Native, NextJS and Unity. Dr. Leonard co-authored the [first fully online statistics textbook](https://onlinepubs.trb.org/onlinepubs/nchrp/cd-22/start.htm) for transportation researchers and the National Cooperative Highway Research Program.
 
 ## Education
 
