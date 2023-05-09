@@ -1,0 +1,10 @@
+---
+title: README for ocpe-python-genworth project
+date: last-modified
+jupyter: python3
+format:
+  gfm:
+    html-math-method: webtex
+---
+
+test readme
