@@ -3,4 +3,9 @@ title: Python sampler and workshop
 date: last-modified
 ---
 
-this is a sample home page.
+This is a demo web site created for this project.
+
+See the [workshop notes](./notes-2023-05-09.qmd) to see our initial ideas.
+
+See the [about page](./about.qmd) to learn more about the instructor.
+
