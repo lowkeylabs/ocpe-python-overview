@@ -8,3 +8,8 @@ The name of the potential sponsor won’t be mentioned.
 Here is the web site created for this project:
 
 <https://lowkeylabs.github.io/ocpe-python-overview/>
+
+The web site was created using [quarto](https://quarto.org), a tool for
+publishing reproducible research manuscripts and other documents. The
+*./src* folder contains the quarto source for the web site. The *./docs*
+folder contains the fully rendered web site itself.
