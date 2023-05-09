@@ -30,28 +30,28 @@
   {
     "objectID": "notes-2023-05-09.html",
     "href": "notes-2023-05-09.html",
-    "title": "Genworth - Python intro",
+    "title": "Python intro and workshop",
     "section": "",
     "text": "Goal: convince people to participate in follow-up workshop\nAudience: a) managers, and b) actuaries\nTime: 30-min at a meeting in August\n\n\n\n\nGoal: provide actual details and use cases\nAudience: actuaries\nTime: 2-3 hour workshop format"
   },
   {
     "objectID": "notes-2023-05-09.html#two-activities",
     "href": "notes-2023-05-09.html#two-activities",
-    "title": "Genworth - Python intro",
+    "title": "Python intro and workshop",
     "section": "",
     "text": "Goal: convince people to participate in follow-up workshop\nAudience: a) managers, and b) actuaries\nTime: 30-min at a meeting in August\n\n\n\n\nGoal: provide actual details and use cases\nAudience: actuaries\nTime: 2-3 hour workshop format"
   },
   {
     "objectID": "notes-2023-05-09.html#python-topics-use-cases",
     "href": "notes-2023-05-09.html#python-topics-use-cases",
-    "title": "Genworth - Python intro",
+    "title": "Python intro and workshop",
     "section": "Python topics / Use cases",
-    "text": "Python topics / Use cases\nFor both sessions!\n\nPython and data wrangling\nPython as a reporting tool\nPython as an analytical tool\nPython as a “glue” to script things together.\nPython connected to SQL databases\nPython and beautiful graphics\nPython and excel\n\nReading/write excel using python\nEmbedding python code within excel using xlwings"
+    "text": "Python topics / Use cases\nFor both sessions!\n\nPython and data wrangling\nPython as a reporting tool\nPython as an analytical tool\nPython as a “glue” to script things together.\nPython connected to SQL databases\nPython and beautiful graphics\nPython and excel\n\nReading/write excel using python\nEmbedding python code within excel using xlwings\n\nPython and AI/ML\nPython and ChatGPT"
   },
   {
     "objectID": "notes-2023-05-09.html#other-topics",
     "href": "notes-2023-05-09.html#other-topics",
-    "title": "Genworth - Python intro",
+    "title": "Python intro and workshop",
     "section": "Other topics",
     "text": "Other topics\n\nQuarto - a reporting tool for merging python results and text into reports.\nOpen Actuarial: a group for the promotion of open approached to solving actuarial problems using python and R."
   }

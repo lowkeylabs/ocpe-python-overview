@@ -1,5 +1,5 @@
 ---
-title: "Genworth - Python intro"
+title: "Python intro and workshop"
 author: "John Leonard"
 #format:
 #  revealjs:
@@ -47,6 +47,8 @@ For both sessions!
 - Python and excel
     - [Reading/write excel using python](https://openpyxl.readthedocs.io/en/stable/)
     - [Embedding python code within excel using xlwings](https://towardsdatascience.com/how-to-supercharge-excel-with-python-726b0f8e22c2)
+- [Python and AI/ML](https://www.w3schools.com/python/python_ml_getting_started.asp)
+- [Python and ChatGPT](https://www.geeksforgeeks.org/how-to-use-chatgpt-api-in-python/)
 
 ## Other topics
 
